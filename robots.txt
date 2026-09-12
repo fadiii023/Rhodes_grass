@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /admin/
+Disallow: /private/
 
 Sitemap: https://rhodesgrass.pk-traders.com/sitemap.xml
