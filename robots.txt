@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rhodesgrass-export.com/sitemap.xml
+Sitemap: https://rhodesgrass.pk-traders.com/sitemap.xml
